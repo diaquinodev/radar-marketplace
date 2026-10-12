@@ -1,4 +1,4 @@
-# 🤖 Marketplace Intelligence — Agentes de IA para E-commerce
+# 🤖 Radar de Marketplace
 
 ### Extração de dados de mercado, inteligência de preço e agentes de IA que criam, auditam e publicam anúncios no Mercado Livre
 
