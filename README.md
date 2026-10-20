@@ -1,5 +1,7 @@
 # 🤖 Radar de Marketplace
 
+> Projeto de portfólio. O script `agentes/agente_ficha_tecnica.py` envia o anúncio direto à API de produção do Mercado Livre (`api.mercadolibre.com/items`), sem modo de teste e sem etapa de aprovação humana no código; a aprovação humana ainda é um próximo passo do projeto.
+
 ### Extração de dados de mercado, inteligência de preço e agentes de IA que criam, auditam e publicam anúncios no Mercado Livre
 
 [![CI](https://github.com/diaquinodev/radar-marketplace/actions/workflows/ci.yml/badge.svg)](https://github.com/diaquinodev/radar-marketplace/actions/workflows/ci.yml)
